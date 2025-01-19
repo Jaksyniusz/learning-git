@@ -21,3 +21,4 @@ print(only_zero_list)
 print(not_only_zero_list)
 
 print("'Martwa papuga' to najlepszy skecz grupy Monthy Pythona")
+print("'Hiszpańska inkwizycja' to najlepszy skecz grupy Monthy Pythona")
