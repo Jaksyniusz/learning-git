@@ -19,3 +19,5 @@ not_only_zero_list = new_list[10:]
 
 print(only_zero_list)
 print(not_only_zero_list)
+
+print("'Martwa papuga' to najlepszy skecz grupy Monthy Pythona")
